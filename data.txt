@@ -1,0 +1,855 @@
+[
+    {
+        "cat": "Наборы",
+        "menu": [
+            {
+                "name": "\"Грибная\"",
+                "image": "0.png",
+                "description": "римское тесто для пиццы, шампиньоны, лук маринованный, оливковое масло, сыр моцарелла, белый соус,  микрозелень",
+                "price": 499,
+                "subcategory": "380 гр."
+            },
+            {
+                "name": "\"Римская мясная\"",
+                "image": "1.png",
+                "description": "римское тесто для пиццы, ветчина, бекон, колбаса п/к, сыр моцарелла, красный соус, микрозелень",
+                "price": 599,
+                "subcategory": "450 гр."
+            },
+            {
+                "name": "\"Острая\"",
+                "image": "2.png",
+                "description": "римское тесто для пиццы, охотничьи колбаски, пеперони, перец халапеньо, помидор, нити чили, сыр моцарелла, красный соус, микрозелень",
+                "price": 499,
+                "subcategory": "400 гр."
+            }
+        ]
+    },
+    {
+        "cat": "\"Римская пицца\"",
+        "menu": [
+            {
+                "name": "Мясная",
+                "image": "3.png",
+                "description": "Ветчина, курица, колбаски охотничьи, бекон, колбаса п/к, сыр, красный соус",
+                "price": 599,
+                "subcategory": "600 гр."
+            },
+            {
+                "name": "Мясная",
+                "image": "3.png",
+                "description": "Ветчина, курица, колбаски охотничьи, бекон, колбаса п/к, сыр, красный соус",
+                "price": 699,
+                "subcategory": "850  гр."
+            },
+            {
+                "name": "Мясная",
+                "image": "3.png",
+                "description": "Ветчина, курица, колбаски охотничьи, бекон, колбаса п/к, сыр, красный соус",
+                "price": 749,
+                "subcategory": "950  гр."
+            },
+            {
+                "name": "Домашняя",
+                "image": "4.png",
+                "description": "Ветчина, колбаса п/к, огурец соленый, маслины, сыр, красный соус",
+                "price": 549,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "Домашняя",
+                "image": "4.png",
+                "description": "Ветчина, колбаса п/к, огурец соленый, маслины, сыр, красный соус",
+                "price": 649,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "Домашняя",
+                "image": "4.png",
+                "description": "Ветчина, колбаса п/к, огурец соленый, маслины, сыр, красный соус",
+                "price": 699,
+                "subcategory": "900  гр."
+            },
+            {
+                "name": "По-Чилийски (острая)",
+                "image": "5.png",
+                "description": "Пепперони, колбаски охотничьи, халапеньо, помидор, сыр, красный соус",
+                "price": 499,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "По-Чилийски (острая)",
+                "image": "5.png",
+                "description": "Пепперони, колбаски охотничьи, халапеньо, помидор, сыр, красный соус",
+                "price": 599,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "По-Чилийски (острая)",
+                "image": "5.png",
+                "description": "Пепперони, колбаски охотничьи, халапеньо, помидор, сыр, красный соус",
+                "price": 649,
+                "subcategory": "900  гр."
+            },
+            {
+                "name": "Гавайская",
+                "image": "6.png",
+                "description": "Курица, ветчина, ананас, сыр, белый соус",
+                "price": 499,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "Гавайская",
+                "image": "6.png",
+                "description": "Курица, ветчина, ананас, сыр, белый соус",
+                "price": 599,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "Гавайская",
+                "image": "6.png",
+                "description": "Курица, ветчина, ананас, сыр, белый соус",
+                "price": 649,
+                "subcategory": "900  гр."
+            },
+            {
+                "name": "Пепперони",
+                "image": "7.png",
+                "description": "Пепперони, сыр, красный соус",
+                "price": 399,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "Пепперони",
+                "image": "7.png",
+                "description": "Пепперони, сыр, красный соус",
+                "price": 499,
+                "subcategory": "650  гр."
+            },
+            {
+                "name": "Пепперони",
+                "image": "7.png",
+                "description": "Пепперони, сыр, красный соус",
+                "price": 599,
+                "subcategory": "800  гр."
+            },
+            {
+                "name": "Маргарита",
+                "image": "8.png",
+                "description": "Помидор, сыр, белый соус, орегано",
+                "price": 399,
+                "subcategory": "500 гр."
+            },
+            {
+                "name": "Маргарита",
+                "image": "8.png",
+                "description": "Помидор, сыр, белый соус, орегано",
+                "price": 499,
+                "subcategory": "650  гр."
+            },
+            {
+                "name": "Маргарита",
+                "image": "8.png",
+                "description": "Помидор, сыр, белый соус, орегано",
+                "price": 599,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "Морская",
+                "image": "9.png",
+                "description": "Креветки, кальмары, маслины, сыр, белый и красный соус, соус терияки",
+                "price": 599,
+                "subcategory": "500 гр."
+            },
+            {
+                "name": "Морская",
+                "image": "9.png",
+                "description": "Креветки, кальмары, маслины, сыр, белый и красный соус, соус терияки",
+                "price": 699,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "Морская",
+                "image": "9.png",
+                "description": "Креветки, кальмары, маслины, сыр, белый и красный соус, соус терияки",
+                "price": 749,
+                "subcategory": "850  гр."
+            },
+            {
+                "name": "Цезарь",
+                "image": "10.png",
+                "description": "Курица, помидоры, сухарики, лист салата, сыр, соус Цезарь",
+                "price": 449,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "Цезарь",
+                "image": "10.png",
+                "description": "Курица, помидоры, сухарики, лист салата, сыр, соус Цезарь",
+                "price": 549,
+                "subcategory": "800  гр."
+            },
+            {
+                "name": "Цезарь",
+                "image": "10.png",
+                "description": "Курица, помидоры, сухарики, лист салата, сыр, соус Цезарь",
+                "price": 649,
+                "subcategory": "900  гр."
+            },
+            {
+                "name": "Куриная",
+                "image": "11.png",
+                "description": "Курица п/к, помидор, шампиньоны, сыр, белый соус",
+                "price": 449,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "Куриная",
+                "image": "11.png",
+                "description": "Курица п/к, помидор, шампиньоны, сыр, белый соус",
+                "price": 549,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "Куриная",
+                "image": "11.png",
+                "description": "Курица п/к, помидор, шампиньоны, сыр, белый соус",
+                "price": 649,
+                "subcategory": "850  гр."
+            },
+            {
+                "name": "Ветчина/грибы",
+                "image": "12.png",
+                "description": "Шампиньоны, ветчина, сыр, белый соус",
+                "price": 449,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "Ветчина/грибы",
+                "image": "12.png",
+                "description": "Шампиньоны, ветчина, сыр, белый соус",
+                "price": 549,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "Ветчина/грибы",
+                "image": "12.png",
+                "description": "Шампиньоны, ветчина, сыр, белый соус",
+                "price": 649,
+                "subcategory": "850  гр."
+            },
+            {
+                "name": "BBQ",
+                "image": "13.png",
+                "description": "Курица, бекон, шампиньоны, сыр, соус барбекю",
+                "price": 499,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "BBQ",
+                "image": "13.png",
+                "description": "Курица, бекон, шампиньоны, сыр, соус барбекю",
+                "price": 599,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "BBQ",
+                "image": "13.png",
+                "description": "Курица, бекон, шампиньоны, сыр, соус барбекю",
+                "price": 649,
+                "subcategory": "850  гр."
+            },
+            {
+                "name": "Фирменная",
+                "image": "14.png",
+                "description": "Колбаса п/к, ветчина, шампиньоны, перец болгарский, соус белый и красный, сыр",
+                "price": 549,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "Фирменная",
+                "image": "14.png",
+                "description": "Колбаса п/к, ветчина, шампиньоны, перец болгарский, соус белый и красный, сыр",
+                "price": 649,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "Фирменная",
+                "image": "14.png",
+                "description": "Колбаса п/к, ветчина, шампиньоны, перец болгарский, соус белый и красный, сыр",
+                "price": 699,
+                "subcategory": "900  гр."
+            },
+            {
+                "name": "Четыре сезона",
+                "image": "15.png",
+                "description": "Пепперони, ветчина, курица, бекон, красный и белый соус, сыр",
+                "price": 549,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "Четыре сезона",
+                "image": "15.png",
+                "description": "Пепперони, ветчина, курица, бекон, красный и белый соус, сыр",
+                "price": 649,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "Четыре сезона",
+                "image": "15.png",
+                "description": "Пепперони, ветчина, курица, бекон, красный и белый соус, сыр",
+                "price": 699,
+                "subcategory": "900  гр."
+            },
+            {
+                "name": "Сырная",
+                "image": "16.png",
+                "description": "Двойная порция сыра моцарелла, красный соус",
+                "price": 449,
+                "subcategory": "450 гр."
+            },
+            {
+                "name": "Сырная",
+                "image": "16.png",
+                "description": "Двойная порция сыра моцарелла, красный соус",
+                "price": 549,
+                "subcategory": "550  гр."
+            },
+            {
+                "name": "Сырная",
+                "image": "16.png",
+                "description": "Двойная порция сыра моцарелла, красный соус",
+                "price": 649,
+                "subcategory": "650  гр."
+            },
+            {
+                "name": "Пицца \"1:0\"",
+                "image": null,
+                "description": "Ветчина, бекон, курица, грибы, лук, маслины, помидор, сыр фета, сыр моцарелла, красный и белый соус",
+                "price": 549,
+                "subcategory": "600 гр."
+            },
+            {
+                "name": "Пицца \"1:0\"",
+                "image": null,
+                "description": "Ветчина, бекон, курица, грибы, лук, маслины, помидор, сыр фета, сыр моцарелла, красный и белый соус",
+                "price": 649,
+                "subcategory": "850  гр."
+            },
+            {
+                "name": "Пицца \"1:0\"",
+                "image": null,
+                "description": "Ветчина, бекон, курица, грибы, лук, маслины, помидор, сыр фета, сыр моцарелла, красный и белый соус",
+                "price": 699,
+                "subcategory": "950  гр."
+            },
+            {
+                "name": "\"Половинки\"",
+                "image": null,
+                "description": "Курица, ветчина, колбаски охотничьи, халапеньо, соус сырный, соус красный, помидор, сыр",
+                "price": 449,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "\"Половинки\"",
+                "image": null,
+                "description": "Курица, ветчина, колбаски охотничьи, халапеньо, соус сырный, соус красный, помидор, сыр",
+                "price": 549,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "\"Половинки\"",
+                "image": null,
+                "description": "Курица, ветчина, колбаски охотничьи, халапеньо, соус сырный, соус красный, помидор, сыр",
+                "price": 649,
+                "subcategory": "900  гр."
+            },
+            {
+                "name": "Царская",
+                "image": null,
+                "description": "Лосось, белый соус, кедровый орех, сыр",
+                "price": 599,
+                "subcategory": "550 гр."
+            },
+            {
+                "name": "Царская",
+                "image": null,
+                "description": "Лосось, белый соус, кедровый орех, сыр",
+                "price": 699,
+                "subcategory": "750  гр."
+            },
+            {
+                "name": "Царская",
+                "image": null,
+                "description": "Лосось, белый соус, кедровый орех, сыр",
+                "price": 749,
+                "subcategory": "900  гр."
+            },
+            {
+                "name": "Детская",
+                "image": null,
+                "description": "Картофель фри, нагетсы куриные, помидор, сыр, соус белый",
+                "price": 499,
+                "subcategory": "450 гр."
+            },
+            {
+                "name": "Детская",
+                "image": null,
+                "description": "Картофель фри, нагетсы куриные, помидор, сыр, соус белый",
+                "price": 599,
+                "subcategory": "550  гр."
+            },
+            {
+                "name": "Детская",
+                "image": null,
+                "description": "Картофель фри, нагетсы куриные, помидор, сыр, соус белый",
+                "price": 649,
+                "subcategory": "650  гр."
+            }
+        ]
+    },
+    {
+        "cat": "Пицца",
+        "menu": [
+            {
+                "name": "Комбо \"1:0\"",
+                "image": "17.png",
+                "description": "Картофель фри, наггетсы, Кока-Кола 0.3л",
+                "price": 349,
+                "subcategory": "гр."
+            },
+            {
+                "name": "Автопилот",
+                "image": "18.png",
+                "description": "Крылья фирменные, картофель фри, Кока-Кола 0.3л",
+                "price": 349,
+                "subcategory": "гр."
+            },
+            {
+                "name": "Детский",
+                "image": "19.png",
+                "description": "Пицца \"Домашняя\" 30см, картофель фри большой, соус, Кока-Кола 0.5л",
+                "price": 799,
+                "subcategory": "гр."
+            }
+        ]
+    },
+    {
+        "cat": "Комбо",
+        "menu": [
+            {
+                "name": "Классическая",
+                "image": "20.png",
+                "description": "Капуста, помидор, огурец, куриное филе, лаваш, кетчуп/майонез",
+                "price": 299,
+                "subcategory": "гр."
+            },
+            {
+                "name": "С корейской морковкой",
+                "image": "21.png",
+                "description": "Капуста, помидор, огурец, куриное филе, морковь корейская, лаваш, соус Цезарь",
+                "price": 299,
+                "subcategory": "гр."
+            },
+            {
+                "name": "Острая",
+                "image": "22.png",
+                "description": "Капуста, помидор, огурец, куриное филе, лук, халапеньо, лаваш, соус Цезарь",
+                "price": 299,
+                "subcategory": "гр."
+            },
+            {
+                "name": "Пита с беконом и овощами",
+                "image": null,
+                "description": "",
+                "price": 199,
+                "subcategory": "250 гр."
+            },
+            {
+                "name": "Пита с курицей и овощамми",
+                "image": null,
+                "description": "",
+                "price": 199,
+                "subcategory": "250 гр."
+            },
+            {
+                "name": "Пита с курицей и халапеньо( острая)",
+                "image": null,
+                "description": "",
+                "price": 199,
+                "subcategory": "250 гр."
+            }
+        ]
+    },
+    {
+        "cat": "Шаурма",
+        "menu": [
+            {
+                "name": "Кола",
+                "image": null,
+                "description": "",
+                "price": 89,
+                "subcategory": "0.3 л"
+            },
+            {
+                "name": "Кола",
+                "image": null,
+                "description": "",
+                "price": 119,
+                "subcategory": "0.5 л"
+            },
+            {
+                "name": "Спрайт",
+                "image": null,
+                "description": "",
+                "price": 89,
+                "subcategory": "0.3 л"
+            },
+            {
+                "name": "Спрайт",
+                "image": null,
+                "description": "",
+                "price": 119,
+                "subcategory": "0.5 л"
+            },
+            {
+                "name": "Фанта",
+                "image": null,
+                "description": "",
+                "price": 89,
+                "subcategory": "0.3 л"
+            },
+            {
+                "name": "Фанта",
+                "image": null,
+                "description": "",
+                "price": 119,
+                "subcategory": "0.5 л"
+            },
+            {
+                "name": "Тархун",
+                "image": null,
+                "description": "",
+                "price": 69,
+                "subcategory": "0.3 л"
+            },
+            {
+                "name": "Тархун",
+                "image": null,
+                "description": "",
+                "price": 99,
+                "subcategory": "0.5 л"
+            },
+            {
+                "name": "Мохито",
+                "image": null,
+                "description": "",
+                "price": 69,
+                "subcategory": "0.3 л"
+            },
+            {
+                "name": "Мохито",
+                "image": null,
+                "description": "",
+                "price": 99,
+                "subcategory": "0.5 л"
+            },
+            {
+                "name": "Дюшес",
+                "image": null,
+                "description": "",
+                "price": 69,
+                "subcategory": "0.3 л"
+            },
+            {
+                "name": "Дюшес",
+                "image": null,
+                "description": "",
+                "price": 99,
+                "subcategory": "0.5 л"
+            },
+            {
+                "name": "Газ. вода/без газ",
+                "image": null,
+                "description": "",
+                "price": 49,
+                "subcategory": "0.5 л"
+            },
+            {
+                "name": "Сок",
+                "image": null,
+                "description": "",
+                "price": 50,
+                "subcategory": "0.25 л"
+            },
+            {
+                "name": "Сок",
+                "image": null,
+                "description": "",
+                "price": 200,
+                "subcategory": "1 л"
+            }
+        ]
+    },
+    {
+        "cat": "Напитки",
+        "menu": [
+            {
+                "name": "Картофель фри",
+                "image": "23.png",
+                "description": "",
+                "price": 89,
+                "subcategory": "100 гр."
+            },
+            {
+                "name": "Картофель фри",
+                "image": "23.png",
+                "description": "",
+                "price": 169,
+                "subcategory": "200  гр."
+            },
+            {
+                "name": "Луковые кольца",
+                "image": "24.png",
+                "description": "",
+                "price": 179,
+                "subcategory": "150 гр."
+            },
+            {
+                "name": "Картофель по-деревенски",
+                "image": "25.png",
+                "description": "",
+                "price": 89,
+                "subcategory": "100 гр."
+            },
+            {
+                "name": "Картофель по-деревенски",
+                "image": "25.png",
+                "description": "",
+                "price": 169,
+                "subcategory": "200  гр."
+            },
+            {
+                "name": "Кальмар фри",
+                "image": "26.png",
+                "description": "",
+                "price": 179,
+                "subcategory": "150 гр."
+            },
+            {
+                "name": "Сырные палочки",
+                "image": "27.png",
+                "description": "",
+                "price": 179,
+                "subcategory": "100 гр."
+            }
+        ]
+    },
+    {
+        "cat": "Снеки",
+        "menu": [
+            {
+                "name": "Салат овощной",
+                "image": null,
+                "description": "Огурец, помидор, перец болгарский, лист салата, майонез",
+                "price": 249,
+                "subcategory": "150 гр."
+            },
+            {
+                "name": "Салат Цезарь с курицей",
+                "image": null,
+                "description": "Лист салата, курица, сухарики, помидор, сыр, соус Цезарь",
+                "price": 279,
+                "subcategory": "180 гр."
+            },
+            {
+                "name": "Крылышки \"Фирменные\"",
+                "image": null,
+                "description": "Крылышки, обжаренные в панировке",
+                "price": 229,
+                "subcategory": "250 гр."
+            },
+            {
+                "name": "Наггетсы с соусом сальса",
+                "image": null,
+                "description": "Куриное филе, обжаренное по классической технологии в панировке",
+                "price": 229,
+                "subcategory": "200 гр."
+            },
+            {
+                "name": "Корн-дог",
+                "image": "28.png",
+                "description": "",
+                "price": 69,
+                "subcategory": "1 шт"
+            },
+            {
+                "name": "Чизкейк",
+                "image": "29.png",
+                "description": "",
+                "price": 170,
+                "subcategory": "1 шт"
+            }
+        ]
+    },
+    {
+        "cat": "Салаты/Фастфуд",
+        "menu": [
+            {
+                "name": "Голубое облако",
+                "image": "30.png",
+                "description": "",
+                "price": 200,
+                "subcategory": "250 мл"
+            },
+            {
+                "name": "Клубничная фантазия",
+                "image": "31.png",
+                "description": "",
+                "price": 200,
+                "subcategory": "250 мл"
+            },
+            {
+                "name": "Бабл-гам",
+                "image": "32.png",
+                "description": "",
+                "price": 200,
+                "subcategory": "250 мл"
+            },
+            {
+                "name": "Шоколадный/Банановый/Ванильный",
+                "image": "33.png",
+                "description": "",
+                "price": 200,
+                "subcategory": "250 мл"
+            }
+        ]
+    },
+    {
+        "cat": "Молочные коктейли",
+        "menu": [
+            {
+                "name": "Сладкая вата",
+                "image": "34.png",
+                "description": "",
+                "price": 70,
+                "subcategory": "гр."
+            }
+        ]
+    },
+    {
+        "cat": "Сладкая вата",
+        "menu": [
+            {
+                "name": "Латте",
+                "image": null,
+                "description": "Кофе, молоко, сироп",
+                "price": 199,
+                "subcategory": "300 мл"
+            },
+            {
+                "name": "Классический раф",
+                "image": null,
+                "description": "Кофе, сливки 10%, ванильный сахар",
+                "price": 249,
+                "subcategory": "300 мл"
+            },
+            {
+                "name": "Бабл Раф",
+                "image": null,
+                "description": "Кофе, сливки 10%, ванильный сахар, сироп \"Бабл-Гам\"",
+                "price": 249,
+                "subcategory": "300 мл"
+            },
+            {
+                "name": "Розовый капучино",
+                "image": null,
+                "description": "Кофе, молоко, сироп \"Бабл-Гам\", маршмеллоу",
+                "price": 249,
+                "subcategory": "300 мл"
+            },
+            {
+                "name": "Капучино с Орео",
+                "image": null,
+                "description": "Кофе, молоко, шоколадный сироп, печенье Орео, взбитые сливки, топпинг шоколадный",
+                "price": 249,
+                "subcategory": "300 мл"
+            },
+            {
+                "name": "Гляссе",
+                "image": null,
+                "description": "Кофе, молоко, мороженое, сироп, взбитые сливки",
+                "price": 249,
+                "subcategory": "300 мл"
+            },
+            {
+                "name": "Эспрессо",
+                "image": null,
+                "description": "Классический черный кофе (крепкий)",
+                "price": 99,
+                "subcategory": "60 мл"
+            },
+            {
+                "name": "Американо",
+                "image": null,
+                "description": "Классический черный кофе (слабый)",
+                "price": 99,
+                "subcategory": "200 мл"
+            },
+            {
+                "name": "Капучино",
+                "image": null,
+                "description": "Кофе, молоко",
+                "price": 199,
+                "subcategory": "300 мл"
+            },
+            {
+                "name": "Моккачино",
+                "image": null,
+                "description": "Кофе, молоко, какао, сироп, тертый шоколад",
+                "price": 199,
+                "subcategory": "300 мл"
+            },
+            {
+                "name": "Какао по-американски",
+                "image": null,
+                "description": "Какао, молоко, сироп шоколадный, Маршмеллоу",
+                "price": 199,
+                "subcategory": "300 мл"
+            }
+        ]
+    },
+    {
+        "cat": "Кофе",
+        "menu": [
+            {
+                "name": "Чай черный",
+                "image": null,
+                "description": "",
+                "price": 40,
+                "subcategory": "200 мл"
+            },
+            {
+                "name": "Чай черный с лимоном",
+                "image": null,
+                "description": "",
+                "price": 45,
+                "subcategory": "200 мл"
+            },
+            {
+                "name": "Чай зеленый",
+                "image": null,
+                "description": "",
+                "price": 40,
+                "subcategory": "200 мл"
+            },
+            {
+                "name": "Чай зеленый с лимоном",
+                "image": null,
+                "description": "",
+                "price": 45,
+                "subcategory": "200 мл"
+            }
+        ]
+    }
+]
